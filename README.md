@@ -4,6 +4,12 @@ Semantic metadata modeling and 3D visualization for Unified Namespace (UNS) in i
 
 This project provides a structured **semantic metadata model** and an interactive **3D visualization tool** to explore the Unified Namespace (UNS) in industrial environments.
 
+## 🎬 Demo Video
+
+> Click the image below to watch a quick demo on YouTube.
+
+[![Click to watch the video](https://github.com/witch-Judy/uns-semantic-space-explorer/raw/main/page1.png)](https://www.youtube.com/watch?v=b1tVNqwFiQc)
+
 ## 🌐 What Is This?
 
 - **Semantic Metadata Modeling**: Defines a 6-dimensional abstraction for UNS topics, including layers such as Factory, Process Unit, Entity, Phenomenon, Quantity, and Role.
@@ -26,10 +32,5 @@ dim_values = {
     "ContextLocation": ["Field", "NonField", "Mixed"]
 }
 
-### 🎬 Demo Video
-
-> Click the image below to watch a quick demo on YouTube.
-
-[![Click to watch the video](https://github.com/witch-Judy/uns-semantic-space-explorer/raw/main/page1.png)](https://www.youtube.com/watch?v=b1tVNqwFiQc)
 
 
