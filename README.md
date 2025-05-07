@@ -26,3 +26,10 @@ dim_values = {
     "ContextLocation": ["Field", "NonField", "Mixed"]
 }
 
+### 🎬 Demo Video
+
+> Click the image below to watch a quick demo on YouTube.
+
+[![Click to watch the video](https://github.com/witch-Judy/uns-semantic-space-explorer/raw/main/page1.png)](https://www.youtube.com/watch?v=b1tVNqwFiQc)
+
+
